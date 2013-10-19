@@ -168,9 +168,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/c8815/proprietary/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
     vendor/huawei/c8815/proprietary/lib/libcontrast.so:system/lib/libcontrast.so \
     vendor/huawei/c8815/proprietary/lib/libadc.so:system/lib/libadc.so \
-    vendor/huawei/c8815/proprietary/lib/libaudioeq.so:system/lib/libaudioeq.so  \
-    vendor/huawei/c8815/proprietary/lib/libcameraservice.so:system/lib/libcameraservice.so  \
-    vendor/huawei/c8815/proprietary/lib/libcamera_client.so:system/lib/libcamera_client.so
+    vendor/huawei/c8815/proprietary/lib/libaudioeq.so:system/lib/libaudioeq.so  
+
 
 
 
